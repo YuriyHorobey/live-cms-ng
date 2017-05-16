@@ -1,1 +1,1 @@
-# live-cms-ng
+# LiveCMS Angular 2+ Frontend
